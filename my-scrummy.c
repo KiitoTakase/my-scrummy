@@ -1,8 +1,8 @@
 int lightSensor = A0;
 
-int redPin = 9;
-int greenPin = 10;
-int bluePin = 11;
+int redPin = 100;
+int greenPin = 100;
+int bluePin = 100;
 
 int buzzer = 8;
 
